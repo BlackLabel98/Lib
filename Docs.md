@@ -3,7 +3,7 @@ This documentation is for the stable release of Nix Library.
 
 ## Booting the Library
 ```lua
-local NixLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local NixLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/BlackLabel98/Lib/main/UI.lua')))()
 ```
 
 
